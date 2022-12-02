@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-.visual {background-image: url(/img/sub2-1-img/visual.png);}
+.visual {background-image: url(../img/sub2-1-img/visual.png);}
 
 /* main common -S */
 .common-img {
@@ -49,7 +49,7 @@
     display: block;
     width: 67px; height: 65px;
     margin: 0 auto;
-    background-image: url(/img/sub2-1-img/infographic.png);
+    background-image: url(../img/sub2-1-img/infographic.png);
 }
 .tail { 
     width: 22px; height: 27px;

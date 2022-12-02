@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-.visual { background-image: url(/img/sub5-1-img/visual.png);}
+.visual { background-image: url(../img/sub5-1-img/visual.png);}
 
 /* soma sec -S */
 .soma .tit { margin-bottom: 190px;}
@@ -12,9 +12,9 @@
     line-height: 20px; color: #fff; text-align: center;
 }
 .soma-img-box div+div {margin-left: 16px;}
-.soma-img-box div:nth-child(1) {background-image: url(/img/sub5-1-img/pic1.png);}
-.soma-img-box div:nth-child(2) {background-image: url(/img/sub5-1-img/pic2.png);}
-.soma-img-box div:nth-child(3) {background-image: url(/img/sub5-1-img/pic3.png);}
+.soma-img-box div:nth-child(1) {background-image: url(../img/sub5-1-img/pic1.png);}
+.soma-img-box div:nth-child(2) {background-image: url(../img/sub5-1-img/pic2.png);}
+.soma-img-box div:nth-child(3) {background-image: url(../img/sub5-1-img/pic3.png);}
 .soma-description {
     margin-bottom: 120px;
     border-bottom: 1px solid rgba(9, 9, 9, 0.1);
@@ -72,7 +72,7 @@
     display: inline-block;
     width: 154px; height: 98px;
     margin: 0 auto;
-    background-image: url(/img/sub5-1-img/infographic.png);
+    background-image: url(../img/sub5-1-img/infographic.png);
 }
 .line { 
     rotate: 90deg;
@@ -103,7 +103,7 @@
 .line2 li .common-shape::before { content:"";
     display: block;
     margin: 0 auto;
-    background-image: url(/img/sub5-1-img/infographic.png);
+    background-image: url(../img/sub5-1-img/infographic.png);
 }
 .line2 li:nth-child(1) .common-shape{ background-color: #f7faab;}
 .line2 li:nth-child(1) .common-shape::before{
@@ -187,7 +187,7 @@
 }
 .common-apply-list::after { content: "";
     width: 36px; height:46px;
-    background-image: url(/img/sub5-1-img/icons.png);
+    background-image: url(../img/sub5-1-img/icons.png);
     position: absolute; left: 315px; top: 32px;
 }
 .common-apply-list:nth-child(2):after { background-position: -36px 0;}
@@ -216,14 +216,14 @@
     display: inline-block;
     width: 19px; height: 17px;
     margin-left: 10px;
-    background-image: url(/img/sub5-1-img/down.png);
+    background-image: url(../img/sub5-1-img/down.png);
     transition: all 0.7s;
 }
 .common-apply-list a:hover { 
     background-color: #f47e34;
     color: #fff;
 }
-.common-apply-list a:hover::after { background-image: url(/img/sub5-1-img/down-w.png);}
+.common-apply-list a:hover::after { background-image: url(../img/sub5-1-img/down-w.png);}
 .common-name:nth-of-type(7) .common-name-description { line-height: 40px;}
 .common-name:nth-of-type(7) strong { font-weight: 700; color: #f47e34;}
 .common-name:nth-of-type(8) strong { 

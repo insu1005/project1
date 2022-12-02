@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-.visual { background-image: url(/img/sub3-1-img/visual.png);}
+.visual { background-image: url(../img/sub3-1-img/visual.png);}
 
 /* main -S */
 /* park sec -S */
@@ -33,7 +33,7 @@
     display: inline-block;
     width: 12px; height: 16px;
     margin-left: 10px;
-    background-image: url(/img/sub3-1-img/marker.png);
+    background-image: url(../img/sub3-1-img/marker.png);
 }
 .common-box:nth-child(2) > .common-tit::after { background-position: -12px;}
 .common-box:nth-child(3) > .common-tit::after { background-position: -24px;}
@@ -142,7 +142,7 @@
 .icon {
     width: 45px; height: 38px;
     margin: 0 auto;
-    background-image: url(/img/sub3-1-img/inforgrafic-icon.png);
+    background-image: url(../img/sub3-1-img/inforgrafic-icon.png);
     text-align: center;
     vertical-align: center;
 }
@@ -197,13 +197,13 @@
     display: inline-block;
     width: 20px; height: 14px;
     margin-right: 10px;
-    background-image: url(/img/sub3-1-img/icon_hpn_off.png);
+    background-image: url(../img/sub3-1-img/icon_hpn_off.png);
     transition: all 0.7s;
 }
 .audio-list a:hover {
     color: #fff;
     background-color: #f47e33;
 }
-.audio-list a:hover::before { background-image: url(/img/sub3-1-img/icon_hpn_off-w.png);}
+.audio-list a:hover::before { background-image: url(../img/sub3-1-img/icon_hpn_off-w.png);}
 /* audio-tour sec -E */
 /* main -E */

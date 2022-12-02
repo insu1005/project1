@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-.visual { background-image: url(/img/sub6-1-img/visual.png);}
+.visual { background-image: url(../img/sub6-1-img/visual.png);}
 
 .board-box-wrap { 
     width: 1190px;
@@ -76,7 +76,7 @@
 }
 .all::after{ content: "";
     width: 16px; height: 10px;
-    background-image: url(/img/sub6-1-img/expand.png);
+    background-image: url(../img/sub6-1-img/expand.png);
     position: absolute; left: 70px; top: 13px;
 }
 .all-1depth { 
@@ -105,7 +105,7 @@
 }
 .title-tit::after{ content: "";
     width: 16px; height: 10px;
-    background-image: url(/img/sub6-1-img/expand.png);
+    background-image: url(../img/sub6-1-img/expand.png);
     position: absolute; left: 70px; top: 13px;
 }
 .title-1depth{ 
@@ -140,7 +140,7 @@
 .search-shape button{
     width:20px; height: 20px;
     border: 0;
-    background-image: url(/img/sub6-1-img/search.png);
+    background-image: url(../img/sub6-1-img/search.png);
     position: absolute; left: 210px; top: 7px;
     cursor: pointer;
 }

@@ -51,7 +51,7 @@ body { font: 16px/1 'Noto Sans KR','돋움',dotum, AppleGothic, sans-serif; colo
   display:block; 
   width: 100%; height: 45px;
   text-indent: -9999px;
-  background-image: url(/img/logo.png);
+  background-image: url(../img/logo.png);
   transition: all 0.7s;
 }
 
@@ -73,7 +73,7 @@ body { font: 16px/1 'Noto Sans KR','돋움',dotum, AppleGothic, sans-serif; colo
   width:214px; height: 160px; 
   margin: 20px 0 0 60px; 
   text-indent: -9999px; 
-  background-image: url(/img/gnb-hover-img.png); 
+  background-image: url(../img/gnb-hover-img.png); 
 }
 .gnb .depth1 { float: left;}
 .gnb .depth1 > a{ 
@@ -153,7 +153,7 @@ input::placeholder{  font-weight: 300; font-size: 26px; line-height: 40px; text-
   width: 29px; height: 29px; 
   border: 0px; 
   text-indent: -9999px;
-  background: #d5d5d5 url(/img/search-box-img.png); 
+  background: #d5d5d5 url(../img/search-box-img.png); 
   position: relative; left: 0; top: 2px; 
   cursor: pointer;
 }
@@ -209,7 +209,7 @@ input::placeholder{  font-weight: 300; font-size: 26px; line-height: 40px; text-
   float: left;
   width: 150px; height: 45px; 
   margin-right: 46px;
-  background-image: url(/img/logo.png); background-position: 0 45px;
+  background-image: url(../img/logo.png); background-position: 0 45px;
   text-indent: -9999px; 
 }
 .f-menu { 
@@ -245,7 +245,7 @@ input::placeholder{  font-weight: 300; font-size: 26px; line-height: 40px; text-
   text-indent: -9999px; 
   background-repeat: no-repeat;
 }
-.f-sns li > a { background-image: url(/img/f-sns.png);}
+.f-sns li > a { background-image: url(../img/f-sns.png);}
 .f-sns li:nth-child(2) > a { 
   width: 100%;
   background-position: -20px 0;
@@ -257,7 +257,7 @@ input::placeholder{  font-weight: 300; font-size: 26px; line-height: 40px; text-
   width: 88px; height: 63px; 
   margin: 52px 0 0 30px; 
   font-size: 0; 
-  background-image: url(/img/web-approach.png);
+  background-image: url(../img/web-approach.png);
 }
 .f-site { 
   float: right; 
@@ -275,7 +275,7 @@ input::placeholder{  font-weight: 300; font-size: 26px; line-height: 40px; text-
   content:""; 
   display: block; 
   width:13px; height:6px; 
-  background-image: url(/img/f-site-arrow.png);
+  background-image: url(../img/f-site-arrow.png);
   position: absolute; top: 5px; left: 95px;
 }
 .f-site-box {
